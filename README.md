@@ -12,6 +12,7 @@
 
 ### App Walkthrough GIF
 
+![ezgif com-video-to-gif-2](https://user-images.githubusercontent.com/62117984/134086389-dca3ded0-2463-4010-8a3a-40086d04f1c5.gif)
 
 ![](https://i.imgur.com/wsLkG3A.gif)
 
